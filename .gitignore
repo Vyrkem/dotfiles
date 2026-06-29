@@ -1,0 +1,9 @@
+# --- Dotfiles : approche whitelist ---
+# Par défaut on ignore TOUT ce qui est dans ~/.config
+/*
+
+# ...sauf ces éléments explicitement suivis :
+!/.gitignore
+!/README.md
+!/hypr/
+!/noctalia/
